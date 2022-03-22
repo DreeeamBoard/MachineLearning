@@ -1,2 +1,2 @@
 # MachineLearning
-2022 Spring Bio-Intelligence
+2022 KAIST Spring Bio-Intelligence
